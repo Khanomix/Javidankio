@@ -6,7 +6,7 @@
   "env": {
      "CONFIG_FILE_IN_URL": {
       "description": "Please Paste your rclone.conf file in URL.Use https://gist.github.com \r\n |.See Readme in github https://github.com/developeranaz/Aria2-Rclone-Remote-Uploader-HEROKU |➊.Generate rclone.conf file from any terminal or cmd or termux          |➋.You can use Multiple cloud drive accounts in single rclone.conf file          |➌.We need any text/code hosting website, Use gist-github github account needed.           |➍.Open rclone.config file using any text editors and copy all text inside rclone.conf and paste it in gist.            |➎.Choose any file name and save it.          |➏.Then Click RAW button and copy the url.          |➐.Don't share this url to anyone. |➑.Paste your url below." ,
-      "value": "https://gist.githubusercontent.com/Khanomix/ad73c010b2e024a29522438cf56398c4/raw/62b2d2abdce172e4241b7735e10bc5116cf42908/rclopi"
+      "https://gist.githubusercontent.com/Khanomix/ad73c010b2e024a29522438cf56398c4/raw/rclopi": "https://gist.githubusercontent.com/Khanomix/ad73c010b2e024a29522438cf56398c4/raw/62b2d2abdce172e4241b7735e10bc5116cf42908/rclopi"
                   }
 
 
